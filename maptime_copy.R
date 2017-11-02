@@ -11,13 +11,6 @@ library(sp)
 library(raster)
 library(rgdal)
 
-#How to set the working directory?
-path="C:/Users/Catherina/Documents/20171024_Maptime"
-setwd(path)
-
-#Check the working directory
-getwd()
-
 #check what is in the folder
 dir()
 
