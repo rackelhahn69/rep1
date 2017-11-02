@@ -64,6 +64,6 @@ for (i in 1:nlayers(sh)){
   title(xlab="lon", ylab="lat")
   
   dev.off()
-} 
+} rr
 
 graphics.off()
